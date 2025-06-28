@@ -22,7 +22,7 @@ To use **EVM Auto Deploy**, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dante4rt/evm-auto-deploy.git
+   git clone https://github.com/willicc/evm-auto-deploy.git
    ```
 
 2. Install the dependencies:
